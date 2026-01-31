@@ -1,0 +1,2 @@
+# Requires: future-pause
+# (Not available on PyPI)
